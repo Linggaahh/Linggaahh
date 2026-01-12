@@ -1,59 +1,29 @@
-<h1 align="center">Hi 👋, I'm Lingga</h1>
-<h3 align="center">A Passionate Frontend Developer from Indonesia 🇮🇩</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Lingga;Frontend+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast" />
+</h1>
+
+<h3 align="center">
+  🇮🇩 A Passionate Frontend & Mobile Developer from Indonesia
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Linggaahh&label=Profile%20Views&color=0ea5e9&style=flat" />
+  <img src="https://img.shields.io/github/followers/Linggaahh?label=Followers&style=flat&color=0ea5e9" />
+</p>
 
 <p align="center">
   <a href="mailto:linggadaud@gmail.com">
-    <img src="https://img.shields.io/badge/Email-linggadaud%40gmail.com-red?style=flat&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-linggadaud%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Student of **Software Engineering (RPL)**  
-- 💻 Focused on **Frontend Development & Mobile App Development**
-- 🌱 Currently learning **React, Laravel, and Jetpack Compose**
-- 🚀 Interested in **UI/UX, Web, and Android Development**
-- 📫 Reach me at **linggadaud@gmail.com**
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  </a>
-
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45"/>
-  </a>
-
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45"/>
-  </a>
-
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linggaahh&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linggaahh&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-✨ *“Code, Learn, and Build Something Meaningful.”*
+## 🚀 About Me
+```yaml
+Name        : Lingga
+Role        : Frontend & Mobile Developer
+Education   : Software Engineering (RPL)
+Focus       : Web • Mobile • UI/UX
+Currently   : React, Laravel, Jetpack Compose
+Mindset     : Learn • Build • Improve
